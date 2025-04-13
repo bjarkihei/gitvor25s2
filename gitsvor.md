@@ -12,6 +12,7 @@
 * git checkout - þú sækir kóðan í mismunandi branch
 * git branch - til að vinna með branch. git branch sýnir lista yfir branches sem er þá hægt að gera checkout fyrir
 4. Hvað er útgáfustýring (Version Control)?
+* Er kerfi til að hjálpa við að fylgjast með og stýra breytingum á skrám
 5. Hverjir eru helstu kostir við að nota GIT?
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
