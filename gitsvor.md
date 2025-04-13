@@ -14,5 +14,9 @@
 4. Hvað er útgáfustýring (Version Control)?
 * Er kerfi til að hjálpa við að fylgjast með og stýra breytingum á skrám
 5. Hverjir eru helstu kostir við að nota GIT?
+* til að geta haft avrit af kóðanum í kerfi eins og git
+* til þess geta vita hvað breytinga söguna
+* til þess að auðvelda að vina margir saman við að búa til forrit
+* mjög mikið notað forriturum í heiminum, og mikið efni til á netinu
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
