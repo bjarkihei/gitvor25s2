@@ -23,5 +23,7 @@ Eu est dolore duis enim consequat incididunt excepteur consectetur proident offi
 
 ### Veniam ullamco esse dolore duis ea.
 
+```python 
 for i in range(10):
     print(i)
+```
