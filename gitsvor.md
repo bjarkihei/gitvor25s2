@@ -19,4 +19,5 @@
 * til þess að auðvelda að vina margir saman við að búa til forrit
 * mjög mikið notað forriturum í heiminum, og mikið efni til á netinu
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+* alltaf þegar þú ert búinn að géra einhvað einhvað sem skptir máli
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
